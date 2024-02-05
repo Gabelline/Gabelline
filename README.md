@@ -14,7 +14,6 @@
 ![Blog](https://img.shields.io/badge/Laravel-000000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Blog](https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Blog](https://img.shields.io/badge/React-000000.svg?style=for-the-badge&logo=React&logoColor=white)
-![Blog](https://img.shields.io/badge/PlanetScale-000000.svg?style=for-the-badge&logo=PlanetScale&logoColor=white)
 ![Blog](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 
