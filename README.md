@@ -10,10 +10,8 @@
 
 ![Blog](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Blog](https://img.shields.io/badge/Node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Blog](https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Blog](https://img.shields.io/badge/Laravel-000000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Blog](https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Blog](https://img.shields.io/badge/React-000000.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Blog](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 
