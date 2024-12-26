@@ -5,10 +5,6 @@
 [![Blog](https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0IHrQQ8nAo1WvWGm41RvVG?si=6905087284a4468a)
 
 
-## Technologies that I use in my daily life
-
-<hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
