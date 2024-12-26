@@ -8,11 +8,13 @@
 ## Technologies that I use in my daily life
 
 
-![Blog](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Blog](https://img.shields.io/badge/Node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Blog](https://img.shields.io/badge/Laravel-000000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-![Blog](https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Blog](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 </br>
