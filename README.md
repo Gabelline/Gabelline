@@ -12,7 +12,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,mui,typescript,tailwind,nodejs,git," /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,mui,typescript,tailwind,nodejs,graphql,git," /><br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,vscode,github,figma,blender" /><br>
 </div>
 
