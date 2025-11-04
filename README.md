@@ -1,4 +1,4 @@
-## Hi, Gabelline Here! 👋 😁 🇧🇷 
+## Hi, Gabelline Here! 👋 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabelline/)
 [![Blog](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gabelline/)
